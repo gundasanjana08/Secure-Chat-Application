@@ -1,7 +1,5 @@
 # 🔐 Secure Chat Application
 
-[![Edit in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/gundasanjana08/Secure-Chat-Application)
-
 ## 🚀 Overview
 
 Secure Chat Application is a next-generation, real-time messaging platform designed to ensure privacy, security, and seamless communication. With a robust encryption framework and intuitive UI, users can confidently chat without compromising their data integrity.
